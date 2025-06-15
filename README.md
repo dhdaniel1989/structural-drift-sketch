@@ -54,9 +54,6 @@ Commercial use or unattributed reproduction is prohibited.
 
 ## 🧭 Contact & Future Releases
 
-To express interest in collaboration, citation, or early-access inquiry, please contact:  
-**[insert email or link here]** (optional)
-
 Further disclosures may follow in staggered form — including visual modeling, a glossary of terms, and layered expansions of the theory under versioned release.
 
 ---
