@@ -1,5 +1,5 @@
 # structural-drift-sketch
-the-cyborg-prince-was-here
+the-cybernetic-prince-was-here
 
 # Persistence Under Drift – A Structural Sketch  
 _© 2025 Dustin Daniel | The Cyborg Prince_  
