@@ -2,7 +2,7 @@
 the-cybernetic-prince-was-here
 
 # Persistence Under Drift – A Structural Sketch  
-_© 2025 Dustin Daniel | The Cyborg Prince_  
+_© 2025 Dustin Daniel | The Cybernetic Prince_  
 
 ---
 
