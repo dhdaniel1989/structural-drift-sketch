@@ -6,7 +6,7 @@ _© 2025 Dustin Daniel | The Cybernetic Prince_
 
 ---
 
-## 🧠 Overview
+Overview
 
 This repository contains a timestamped theoretical fragment titled **“Persistence Under Drift: A Structural Sketch.”** It is a partial disclosure of a larger model currently under private development.
 
@@ -16,7 +16,7 @@ This document does **not** present the full theory. It is a signal, not a bluepr
 
 ---
 
-## 📜 Purpose of This Release
+Purpose of This Release
 
 - To **establish authorship and timestamped priority** over a developing theoretical system
 - To **publicly disclose a coherent structural fragment** without revealing unifying mechanisms
@@ -24,7 +24,7 @@ This document does **not** present the full theory. It is a signal, not a bluepr
 
 ---
 
-## 🕰️ Authorship Timeline
+Authorship Timeline
 
 - **Conceptual foundations** trace back to private exploration between **2022–2024**.
 - **Formal structuring and modeling** began in earnest in **mid-2025**.
@@ -32,7 +32,7 @@ This document does **not** present the full theory. It is a signal, not a bluepr
 
 ---
 
-## 🔒 What Is Withheld
+What Is Withheld
 
 The following elements remain unpublished and protected:
 
@@ -42,7 +42,7 @@ The following elements remain unpublished and protected:
 
 ---
 
-## 📇 Licensing
+Licensing
 
 Unless otherwise stated, all content in this repository — including terminology such as  
 **Symbolic Drift**, **Dustinian Thresholds**, **Collapse Alignment**, **Persistence Under Drift**, and related constructs — is:
@@ -52,9 +52,9 @@ Commercial use or unattributed reproduction is prohibited.
 
 ---
 
-## 🧭 Contact & Future Releases
+Contact & Future Releases
 
-Further disclosures may follow in staggered form — including visual modeling, a glossary of terms, and layered expansions of the theory under versioned release.
+Further disclosures may follow in staggered form — including visual modeling, a glossary of terms, formulae, and layered expansions of the theory under versioned release.
 
 ---
 
