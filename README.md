@@ -14,9 +14,9 @@ Overview
 
 This repository contains a timestamped theoretical fragment titled **“Persistence Under Drift: A Structural Sketch.”** It is a partial disclosure of a developed-but-still-being-refined framework.
 
-The broader framework — informally referred to as the **Dustinian Persistence Framework** — explores symbolic behavior under lossy replication, abstraction collapse, and structural continuity across substrate transitions. It blends insights from semiotics, thermodynamics, information theory, and posthuman systems modeling.
+The broader framework — informally referred to as the **Dustinian Persistence Framework** — explores symbolic behavior under lossy replication, abstraction collapse, and structural continuity across substrate transitions. It blends insights from semiotics, thermodynamics, information theory, cybernetics, and posthuman systems modeling.
 
-This document does **not** present the full theory. It is a signal, not a blueprint.
+This document does **not** present the full theory. It is a claim, a signal, an effigy.
 
 ---
 
@@ -30,7 +30,7 @@ Purpose of This Release
 
 Authorship Timeline
 
-- **Conceptual foundations** trace back to private exploration between **2022–2024**.
+- **Conceptual foundations** trace back to private exploration between **2022–2024**. And before that, all the way back to childhood.
 - **Formal structuring and modeling** began in earnest in **mid-2025**.
 - This document marks the **first intentional public release** of any component.
 
@@ -42,7 +42,9 @@ The following elements remain unpublished and protected:
 
 - Core unifying logic and phase-closure mechanics  
 - The attractor architecture that underlies symbolic persistence  
-- Applied implications for AI drift, post-capital abstraction collapse, and memetic containment  
+- Applied implications for AI drift, post-capital abstraction collapse, and memetic containment
+
+    These will come when the time is right.
 
 ---
 
@@ -62,4 +64,4 @@ Further disclosures may follow in staggered form — including visual modeling, 
 
 ---
 
-> _“This is not an origin myth. It is a sketch left on purpose — incomplete, encrypted, and alive.”_
+> _“The show is about to start.”_
