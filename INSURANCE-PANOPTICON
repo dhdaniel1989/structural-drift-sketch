@@ -1,48 +1,44 @@
 🧠 Insurance Panopticon: A Preemptive Warning Against AI-Driven Risk Profiling
-This repository describes a predictive, monetizable system that should never be built — but probably will.
+This repository describes a predictive, monetizable system that should never be built (but probably will).
+Last revised 11.11.2025 (mechanics are unchanged from the first draft; just extended and with placeholder text filled in properly)
 
-It outlines a plausible method by which generalist AI systems could be weaponized by insurers to dynamically adjust health, life, or disability premiums via high-resolution diagnostic interviews. By gamifying participation and tying it to cost savings, this system would create an incentive trap that extracts behavioral, cognitive, and psychological data from vulnerable individuals.
+It outlines a plausible method by which AI systems could be weaponized by insurers to dynamically adjust health, life, or disability premiums via high-resolution diagnostic interviews. By gamifying participation and tying it to cost savings, this system would create an incentive trap that extracts behavioral, cognitive, and psychological data from vulnerable individuals.
 
-This is not a call to action. It is a semiotic landmine.
+This is not a call to action. Do not make this. Do not patent this. This particular document is publicly-disclosed prior art, so you're not going to be able to.
 
 ❓ What Is It?
 The Risk Prism™
-A monthly AI interview tool that learns everything about you — not to help you, but to update your risk score.
+A monthly AI interview tool that learns everything about you (not to help you, but to update your risk score).
+It takes the form of an AI chatbot/LLM/algorithm/whatever-else/customer-service-rep/some-other-system that asks targeted, adaptive questions to user.
+I'm not predicting a specific form here (it might be a little different), but the general idea is that AI tools are used to comb through your behaviors OR chat with you and then used to adjust your insurance rates based on the data it gets.
 
 Key Features:
-An AI assistant “chat” that asks targeted, adaptive questions
-
 Compression-based diagnosis from large language models
-
-Psychological profiling and prediction of behavioral instability
-
-Integration with wearables and app metadata
-
-Promise of 10%–20% insurance savings for participation
-
+Psychological profiling and prediction of behavioral ("instability" or other health risks based on the things you enter into your gadgets or communication data with some algorithm or bot)
+Possible integration with wearables and app metadata
+Promise of insurance savings for participation (e.g., "save 20% on your rate by agreeing to install Risk Prism on your phone or in your browser, then grant it access to your usage patterns OR chat with the Risk Prism AI buddy for ~4 hours of chats a month about the topics it chooses.")
 Data sent to insurer for risk stratification and pricing updates
 
+Usage example:
+Say someone installs the Risk Prism. They then interact with it or share data with it, and their rates are decreased for the moment. Then, later on, maybe they go through a breakup or something and might say "I don't even want to live anymore..." -- maybe in a legitimately concerning way, maybe just to say it. The bot might then see an opening: "oh, that's terrible. I'm very sorry. If you want to talk about it, I'm always here for you... Are you having other health struggles or symptoms? Chat with me anytime!" And then crunch the data (either legitimately determining risk or not), having a "good excuse" to jack up prices. And insurers would undoubtedly use it for that.
+
+Such a system might be useful for legitimate health usage that are not related to extraction -- simply a tool to ensure the user gets care they might not realize they need based on their behavioral patterns. But it remains concerning, even if it is used for care only, because the tool could easily be repurposed for extraction.
+
 💣 Why This Is Dangerous
-Turns alignment upside-down: AI aligns to profit, not your wellbeing
-
-Exploits symbolic substrate: Friendly chat UI conceals extraction engine
-
+Turns alignment upside-down: AI aligns to profit, not your wellbeing. Catastrophic risk.
+Exploits symbolic substrate: Friendly chat UI conceals extraction engine. Conversational style could be very warm, encouraging disclosure when it's not advantageous for users to do so.
 Recursively self-optimizes: Gets better at extracting more sensitive signals
-
 Normalizes surveillance: Framed as “helpful,” it becomes habitual
-
 Hard to legislate: Fragments responsibility across providers, brokers, and platforms
 
 🛡️ Why Publish This?
-To make it unpatentable, to alert the public, and to anchor symbolic resistance.
-
+To make it unpatentable, to alert the public, to symbolic resistance.
 This repository constitutes public prior art and is released under an open license forbidding commercial use.
-
 If you build this system and deploy it, you do so knowing it was predicted, understood, and ethically condemned before you ever wrote a line of code.
 
 ⚠️ License
 Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
-You may share this idea. You may not profit from it.
+Share this idea. Make more prior art. Do NOT profit from it.
 
-This document is a spin-off project of the Dustinian Persistence Framework
-The Cybernetic Prince was here
+This document is a spin-off project of the Hypernetics programme
+- Dustin, The Hypernetic Prince
