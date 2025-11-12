@@ -2,7 +2,7 @@
 the-hypernetic-prince-was-here
 
 # Persistence Under Drift – A Structural Sketch  
-_© 2025 Dustin Daniel | The Hybernetic Prince_  
+_© 2025 Dustin Daniel | The Hypernetic Prince_  
 
 ---
 
