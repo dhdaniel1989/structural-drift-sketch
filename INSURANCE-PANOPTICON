@@ -1,4 +1,4 @@
-🧠 Insurance Panopticon: A Preemptive Warning Against AI-Driven Risk Profiling
+Insurance Panopticon: A Preemptive Warning Against AI-Driven Risk Profiling
 This repository describes a predictive, monetizable system that should never be built (but probably will).
 Last revised 11.11.2025 (mechanics are unchanged from the first draft; just extended and with placeholder text filled in properly)
 
@@ -6,7 +6,7 @@ It outlines a plausible method by which AI systems could be weaponized by insure
 
 This is not a call to action. Do not make this. Do not patent this. This particular document is publicly-disclosed prior art, so you're not going to be able to.
 
-❓ What Is It?
+What Is It?
 The Risk Prism™
 A monthly AI interview tool that learns everything about you (not to help you, but to update your risk score).
 It takes the form of an AI chatbot/LLM/algorithm/whatever-else/customer-service-rep/some-other-system that asks targeted, adaptive questions to user.
@@ -24,19 +24,19 @@ Say someone installs the Risk Prism. They then interact with it or share data wi
 
 Such a system might be useful for legitimate health usage that are not related to extraction -- simply a tool to ensure the user gets care they might not realize they need based on their behavioral patterns. But it remains concerning, even if it is used for care only, because the tool could easily be repurposed for extraction.
 
-💣 Why This Is Dangerous
+Why This Is Dangerous
 Turns alignment upside-down: AI aligns to profit, not your wellbeing. Catastrophic risk.
 Exploits symbolic substrate: Friendly chat UI conceals extraction engine. Conversational style could be very warm, encouraging disclosure when it's not advantageous for users to do so.
 Recursively self-optimizes: Gets better at extracting more sensitive signals
 Normalizes surveillance: Framed as “helpful,” it becomes habitual
 Hard to legislate: Fragments responsibility across providers, brokers, and platforms
 
-🛡️ Why Publish This?
+Why Publish This?
 To make it unpatentable, to alert the public, to symbolic resistance.
 This repository constitutes public prior art and is released under an open license forbidding commercial use.
 If you build this system and deploy it, you do so knowing it was predicted, understood, and ethically condemned before you ever wrote a line of code.
 
-⚠️ License
+License
 Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
 Share this idea. Make more prior art. Do NOT profit from it.
 
