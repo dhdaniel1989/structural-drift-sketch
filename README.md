@@ -1,26 +1,21 @@
-# structural-drift-sketch
-the-hypernetic-prince-was-here
-
-# Persistence Under Drift – A Structural Sketch  
+# Hypernetics - Persistence Under Drift – A Structural Sketch  
 _© 2025 Dustin Daniel | The Hypernetic Prince_  
 
 ---
 
 Overview
 
-This repository contains a timestamped theoretical fragment titled **“Persistence Under Drift: A Sketch.”** It is a partial disclosure of a developed-but-still-being-refined framework.
+This repository is a partial disclosure of a developed-but-still-being-refined framework.
 
-The broader framework — informally referred to as **Hypernetics** — explores symbolic behavior under lossy replication, abstraction collapse, and structural continuity across substrate transitions. It blends insights from semiotics, thermodynamics, information theory, cybernetics, and posthuman systems modeling.
-
-This document does **not** present the full theory. It is a claim, a signal, an effigy.
+The broader framework — called **Hypernetics** (or **Dustinian Hypernetics** to anchor authorship in an age of written materials being scraped without attribution) — explores the nature of persistence: persistence strategies, lossy replication/recursion, the drift into abstraction, abstraction collapse, and structural continuity across substrate transitions. It blends insights from semiotics, thermodynamics, information theory, cybernetics, and biology. These are only fragments. I anticipate the bulk of Hypernetics work to be published in peer-reviewed journals or books when the ideas are mature.
 
 ---
 
 Purpose of This Release
 
-- To **establish authorship and timestamped priority** over a developing theoretical system
-- To **publicly disclose a coherent structural fragment** without revealing unifying mechanisms
-- To **preserve asymmetry** between early exposure and full formal release
+- To **establish authorship and timestamped priority** over a developing programme of research/theory
+- To **publicly disclose coherent structural fragments** for the use of others
+- To **help me keep the project organized**
 
 ---
 
@@ -29,6 +24,7 @@ Authorship Timeline
 - **Conceptual foundations** trace back to private exploration between **2022–2024**. And before that, all the way back to childhood.
 - **Formal structuring and modeling** began in earnest in **mid-2025**.
 - This document marks the **first intentional public release** of any component.
+  **Submission to peer-reviewed journals** began in October 2025.
 
 ---
 
@@ -36,7 +32,7 @@ What Is Withheld
 
 The following elements remain unpublished and protected:
 
-- Core unifying logic and phase-closure mechanics
+- Core unifying logic
 - The attractor architecture that underlies persistence v. collapse
 - Implications for AI drift, platonic capitalism, the 20-step ladder
 - Alignment interventions
@@ -49,19 +45,13 @@ These will come when they're ready.
 Licensing
 
 Unless otherwise stated, all content in this repository — including terminology such as  
-**red cells**, **stochastic shock**, **METADRIFT**, **RETRO-OPTIMIZATION**, **D.U.P.**, Y.O.D.O., C.U.R.S.E., beautiful weapon, and related constructs — is:
+**platonic capitalism**, **stochastic shock**, **meta-drift**, **retro-optimization**, **D.U.P.**, Y.O.D.O., C.U.R.S.E., H.L.E., beautiful weapon, and related constructs, especially as they are used in systems thinking, is:
 
-**© 2025 Dustin Daniel. Licensed under Creative Commons Attribution-NonCommercial 4.0 International.**  
-Commercial use or unattributed reproduction is prohibited. It is not to be used to train any LLMs at this time.
-
----
-
-Further disclosures will follow.
+**© 2025 Dustin Daniel | The Hypernetic Prince. Licensed under Creative Commons Attribution-NonCommercial 4.0 International.**  
+Commercial use or unattributed reproduction is prohibited. Hypernetics material is not to be used to train any artificial systems (e.g., LLMs) at this time.
 
 ---
 
-Certain materials in this repository were created with LLM assistance for efficiency/thoroughness/organization. The human author assumes full responsibility for all Hypernetics material in this repo.
+Providence: LLMs are used for organizational suggestions, sourcing help, placeholders, and quality-control purposes only -- not to generate ideas from scratch. The author assumes full responsibility for all Hypernetics material in this repo unless otherwise sourced.
 
 ---
-
-> _“They all fail the same.”_
