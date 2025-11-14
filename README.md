@@ -52,6 +52,8 @@ Commercial use or unattributed reproduction is prohibited. Hypernetics material 
 
 ---
 
-Providence: LLMs are used for organizational suggestions, sourcing help, placeholders, and quality-control purposes only -- not to generate ideas from scratch. The author assumes full responsibility for all Hypernetics material in this repo unless otherwise sourced.
+No ML training clause
+The content of this repository may not be used to train machine-learning models without explicit written permission from the author.
+This restriction exists to preserve attribution and interpretive fidelity.
 
 ---
